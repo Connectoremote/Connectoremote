@@ -5,6 +5,6 @@
 - 📫 How to reach me... Join my team 
 
 <!---
-Connectoremote/Connectoremote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connectoremote/Connectoremote is a ✨ special ✨ repository because its `README.md` (Apps.ASTRONOMY PIC) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
